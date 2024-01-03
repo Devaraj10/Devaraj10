@@ -1,6 +1,6 @@
 ![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Deva Raj R</h1>
-<h3 align="center">I'm a developer based in Bangalore, India. My life circles around python, PowerApps, PowerBi, SQL. I wish to move towards data/business analyst in the coming future.</h3>
+<h3 align="center">I'm a developer based in Bangalore, India. My life circles Python, PowerApps, PowerAutomate, PowerBi, and SQL. I wish to move toward data/business analysis in the coming future.</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/t9A_dYvaXNaEje1re5DEN1wcCpVJrsvEd-MEfqHNgdY/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL3B1/bml0a21yeWgvcHVu/aXRrbXJ5aC9tYXN0/ZXIvRGV2ZWxvcGVy/LmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaraj10&label=Profile%20views&color=0e75b6&style=flat" alt="devaraj10" /> </p>
